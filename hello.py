@@ -1,1 +1,2 @@
-print "hello from the other side"
+print "i was stupid :D"
+
